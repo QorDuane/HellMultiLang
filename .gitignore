@@ -2,3 +2,4 @@
 
 config.ini
 ./pages/__ptcache__/*
+pages/__pycache__/
