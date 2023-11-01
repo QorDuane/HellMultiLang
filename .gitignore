@@ -1,1 +1,4 @@
-.config.ini
+# git ignore lists
+
+config.ini
+./pages/__ptcache__/*
