@@ -1,5 +1,5 @@
 # git ignore lists
 
 config.ini
-./pages/__ptcache__/*
 pages/__pycache__/
+다국어/
