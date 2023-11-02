@@ -3,3 +3,5 @@
 config.ini
 pages/__pycache__/
 다국어/
+build
+hellMultiLang.spec
